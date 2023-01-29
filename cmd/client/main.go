@@ -4,7 +4,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/dannflower/gogame/cmd/client/objects"
+	"github.com/dannflower/learning-ebiten/cmd/client/objects"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
 )
